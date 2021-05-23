@@ -12,10 +12,10 @@ The target is to develop a very basic progressive web app that blends beautifull
 
 
 *****************************
-	# WORKFLOW
+	# workflow
 *****************************
 Commits to be pushed out to beta branch initially. Shall be merged with main branch once it passes testing. Though this is unnecessary considering 
-the main branch doesn't have any code on it but it'll help build habit and the coding ethic required for when the main branch indeed holds code. 
+the main branch doesn't have any code on it but it'll help build habit and the coding ethic required for when the main branch actually holds code. 
 
 
 

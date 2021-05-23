@@ -5,7 +5,9 @@ You read that right.
 The roadmap for the current project is kind of hazy at this point. 
 Will be figuring out stuff as we go about it.
 
-The target is to develop a very basic progressive web app that blends beautifully with the upcoming android release ie Android 12.  
+The target is to develop a very basic progressive web app that blends beautifully with the upcoming android release ie Android 12. 
+
+---end--- 
 
 
 
